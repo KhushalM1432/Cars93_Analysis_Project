@@ -1,4 +1,4 @@
-## Cars93_Analysis | Data_cience_& Automotive_Business_Analytics_Project | Python
+## Cars93_Analysis | Data_Science & Automotive_Business_Analytics_Project | Python
 
 ## Data_Science
 
