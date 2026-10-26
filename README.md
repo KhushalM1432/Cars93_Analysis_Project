@@ -1,6 +1,6 @@
-## Cars93_Analysis | Data_Science & Automotive_Business_Analytics_Project | Python
+## Cars93 Analysis | Data Science & Automotive Business Analytics Project | Python
 
-## Data_Science
+## Data Science
 
 ### 💻Project Highlights
 
