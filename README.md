@@ -1,37 +1,110 @@
-## Cars93 Analysis | Data Science & Automotive Business Analytics Project | Python
+## Automotive Pricing & Vehicle Performance Analytics
 
 ## Data Science
 
-### 💻Project Highlights
+### **Python | Pandas | NumPy | EDA | Statistical Analysis | Automotive Analytics**
 
-1. **Business Problem Analysis:** Analyzed automotive market data to understand relationships between vehicle specifications, pricing, and product characteristics to support data-driven automotive business decisions.
+## Project Overview
 
-2. **Data Cleaning & Preprocessing:** Used Python, Pandas, and NumPy to identify missing values, remove duplicate records where appropriate, standardize data types, and prepare a consistent dataset for analysis.
+Developed a Python-based automotive analytics project using the Cars93 dataset to investigate vehicle pricing, technical specifications, fuel efficiency, and relationships between automobile characteristics.
 
-3. **Exploratory Data Analysis (EDA):** Investigated vehicle attributes, including price, horsepower, engine size, weight, fuel efficiency, and other available specifications to identify meaningful patterns and distributions.
+Applied data cleaning, Exploratory Data Analysis (EDA), descriptive statistics, correlation analysis, and data visualization to understand vehicle market positioning and identify factors associated with pricing differences.
 
-4. **Statistical Analysis:** Applied descriptive statistics to understand variation in vehicle prices and specifications, compare vehicle characteristics, and identify potential outliers.
+## Business Problem
 
-5. **Feature Engineering & Classification:** Distinguished categorical and numerical variables, organized relevant features, and prepared data for downstream statistical analysis and potential machine learning applications.
+Automotive manufacturers, dealerships, and market analysts need to understand how vehicle specifications relate to pricing and product positioning.
 
-6. **Vehicle Pricing Analysis:** Explored relationships between vehicle price and specifications such as horsepower, engine size, and weight to understand factors associated with differences in vehicle pricing.
+This project examines automotive data to identify relationships between technical features and vehicle prices, supporting informed product comparisons and market analysis.
 
-7. **Correlation Analysis:** Examined correlations among numerical variables using correlation matrices and heatmaps to identify relationships that may be useful for further analysis and predictive modeling.
+## Project Objectives
 
-8. **Data Visualization & Interpretation:** Developed histograms, bar charts, scatter plots, pair plots, and heatmaps using Matplotlib and Seaborn to communicate distributions, comparisons, and feature relationships.
+- Analyze automotive pricing and vehicle specifications.
+- Investigate relationships between price, horsepower, engine size, and weight.
+- Examine fuel efficiency and vehicle characteristics.
+- Identify correlations among numerical vehicle features.
+- Compare vehicle categories and pricing distributions.
+- Generate business insights relevant to vehicle benchmarking and product positioning.
 
-9. **Automotive Business Insights:** Used analytical findings to identify potential opportunities for vehicle price benchmarking, product comparisons, market segmentation, and understanding customer-facing product attributes.
+## Project Highlights
 
-10. **Data-Driven Decision Support:** Connected vehicle specifications and pricing patterns with practical business questions to support evidence-based discussions around product positioning and pricing analysis.
+1. **Data Cleaning & Preprocessing:** Prepared automotive records using Python, Pandas, and NumPy by examining missing values, validating data types, and improving dataset consistency.
 
-11. **Machine Learning Data Preparation:** Created a clean, structured dataset suitable for further modeling and predictive analytics, subject to appropriate feature selection and validation.
+2. **Exploratory Data Analysis (EDA):** Investigated vehicle pricing, horsepower, engine size, weight, fuel efficiency, and other technical specifications.
 
-12. **Analytical Problem-Solving:** Applied a structured data science workflow covering data quality assessment, preprocessing, exploratory analysis, statistical investigation, visualization, and interpretation.
+3. **Vehicle Pricing Analysis:** Examined price distributions and relationships between vehicle specifications and market pricing.
 
-## Tools & Technical Skills
+4. **Automotive Performance Analysis:** Compared technical attributes such as horsepower, engine size, weight, and fuel efficiency to understand vehicle characteristics.
 
-Python, Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning, Data Preprocessing, Exploratory Data Analysis (EDA), Descriptive Statistics, Feature Analysis, Correlation Analysis, Data Visualization, Automotive Analytics, and Machine Learning Data Preparation.
+5. **Statistical Analysis:** Applied descriptive statistics to summarize numerical features, evaluate variation, and identify potential outliers.
 
-## Project Objective
+6. **Correlation Analysis:** Investigated relationships between numerical variables using correlation matrices and heatmaps.
 
-To analyze vehicle specifications and pricing data, investigate relationships between automotive features and price, and generate insights that can support vehicle comparison, product positioning, and data-driven automotive business decisions.
+7. **Feature-Based Analysis:** Examined categorical and numerical vehicle attributes to support comparative statistical analysis.
+
+8. **Data Visualization:** Created histograms, scatter plots, bar charts, pair plots, and heatmaps using Matplotlib and Seaborn.
+
+9. **Automotive Business Insights:** Interpreted pricing and specification patterns to identify potential applications in price benchmarking, vehicle comparisons, and product positioning.
+
+10. **Analytical Reporting:** Organized findings into a structured Python-based workflow to support reproducibility and further investigation.
+
+## KPI & Performance Analysis
+
+Key analytical indicators include:
+
+- Vehicle Price Distribution
+- Average Vehicle Price
+- Horsepower Distribution
+- Engine Size Comparison
+- Vehicle Weight Analysis
+- Fuel Efficiency Distribution
+- Price-to-Feature Relationships
+- Correlation Between Vehicle Specifications
+
+## Technologies & Skills
+
+**Programming:** Python
+
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+
+**Data Science Techniques:** Data Cleaning, Data Preprocessing, Exploratory Data Analysis, Descriptive Statistics, Correlation Analysis, Feature Analysis, Data Visualization
+
+**Business Analytics:** Automotive Pricing Analysis, Vehicle Specification Analysis, Product Benchmarking, Market Positioning Analysis
+
+## Dataset Description
+
+**Dataset:** Cars93
+
+The dataset contains automobile information, including vehicle prices, manufacturers, models, technical specifications, and performance-related characteristics.
+
+The analysis focuses on understanding relationships between vehicle attributes and pricing.
+
+## Business Applications
+
+The analysis provides a foundation for:
+
+- Comparing vehicle specifications across models.
+- Evaluating automotive pricing patterns.
+- Identifying features associated with higher vehicle prices.
+- Supporting vehicle price benchmarking.
+- Understanding differences in vehicle performance characteristics.
+- Informing automotive product positioning discussions.
+
+## Business Recommendations
+
+1. **Pricing Evaluation:** Compare vehicle prices alongside technical specifications when assessing market positioning.
+
+2. **Feature Analysis:** Examine horsepower, engine size, weight, and fuel efficiency to understand product differentiation.
+
+3. **Vehicle Benchmarking:** Use comparable vehicle characteristics to support structured price comparisons.
+
+4. **Market Positioning:** Investigate specification and pricing patterns before making product positioning decisions.
+
+5. **Further Modeling:** Consider predictive pricing analysis after appropriate feature selection, model development, and validation.
+
+## Conclusion
+
+This project demonstrates practical expertise in **Python, Data Cleaning, Exploratory Data Analysis, Statistical Analysis, Correlation Analysis, and Data Visualization** applied to automotive data.
+
+By examining relationships between vehicle specifications and pricing, the project showcases analytical problem-solving and the ability to translate technical data into business-relevant insights.
+
+The workflow demonstrates foundational competencies relevant to Data Scientist and Data Analyst roles.
