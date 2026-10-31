@@ -4,7 +4,7 @@
 
 ### **Python | Pandas | NumPy | EDA | Statistical Analysis | Automotive Analytics**
 
-## Project Overview
+### Project Overview
 
 Developed a Python-based automotive analytics project using the Cars93 dataset to investigate vehicle pricing, technical specifications, fuel efficiency, and relationships between automobile characteristics.
 
